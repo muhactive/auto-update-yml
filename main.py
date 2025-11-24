@@ -4,13 +4,15 @@ from product_list import PRODUCT_LIST, CATEGORY_ID
 
 def main():
     product = []
-    for url, categ in PRODUCT_LIST:
-        try:
-            p = pars_product_page(url, categ)
-            product.append(p)
-            print(f'OK append {p["name"]}')
-        except Exception as e:
-            print("Error:", e)
+    for categ_name, urls in PRODUCT_LIST.items():
+        category_id = CATEGORY_ID.get(categ_name)
+        for url in urls:
+            try:
+                p = pars_product_page(url, category_id)
+                product.append(p)
+                print(f'OK append {p["name"]}')
+            except Exception as e:
+                print("Error:", e)
             
     make_yml(product, CATEGORY_ID)
     
