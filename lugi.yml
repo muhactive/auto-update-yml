@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date ="2025-11-24 16:20">
+<yml_catalog date ="2025-11-24 16:37">
 <shop>
 <name>Lugi</name>
 <company>SuperPuperPrice</company>
 <categories>
-   <category id="148986728">Павербанки</category>
-   <category id="148986746">Техніка для кухні</category>
-   <category id="148986747">Гірлянди</category>
+<category id="1">Основний каталог LUGI</category>
+   <category id="148986728" parentId="1">Павербанки</category>
+   <category id="148986746" parentId="1">Техніка для кухні</category>
+   <category id="148986747" parentId="1">Гірлянди</category>
 </categories>
 <offers>
    <offer id="X105" available="true">
@@ -66,9 +67,9 @@ Type-C,USB-C, USB-A
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/external/948576087ef6d606c783952ea94dae4d-600x600.webp</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x105/x105(7).jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x105/x105(10).jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x105/x105(7).jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/external/948576087ef6d606c783952ea94dae4d-600x600.webp</picture>
        <picture>https://lugi.com.ua/image/cache/external/cea8da03cad6e10fb817cc968d0de38a-600x600.webp</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x105/x105(11).jpg</picture>
     </offer>
@@ -132,10 +133,10 @@ Power Bank має 4 роз'єми для підключення різних г�
 
 
 ]]></description>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x104/UR505_5.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x104/x104_2.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/external/508c4104b0f821b6c1b557ecb43df59b-600x600.webp</picture>
        <picture>https://lugi.com.ua/image/cache/external/eda9ab27ac523d707333aa8ad7ecf7f0-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/508c4104b0f821b6c1b557ecb43df59b-600x600.webp</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x104/UR505_5.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x104/x104_4.jpg</picture>
     </offer>
    <offer id="SM-5011-7" available="true">
@@ -154,12 +155,12 @@ Power Bank має 4 роз'єми для підключення різних г�
 
 
 ]]></description>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/SM50117R/5.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/SM50117R/6.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/external/f434b652e5e42bd24329f92a6da715c8-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/ce261e83813b53a4d6b91bf8ddedad31-600x600.webp</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/SM50117R/4.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/SM50117R/1.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/SM50117R/4.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/external/ce261e83813b53a4d6b91bf8ddedad31-600x600.webp</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/SM50117R/5.jpg</picture>
     </offer>
    <offer id="SK50118" available="true">
        <url>https://lugi.com.ua/kuhonnyj-kombajn-sokany-sm-5011-8-bagatofunkcionalnyj-chornyj/</url>
@@ -238,12 +239,12 @@ Sokany SM-5011-8 - це багатофункціональний кухонни�
 
 
 ]]></description>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/7.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/8.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/55118-1.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/9.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/external/e032c15aea8d0e9cbc290f45d54a0c38-600x600.webp</picture>
        <picture>https://lugi.com.ua/image/cache/external/1672839834f27e1be4a825465d565ab5-600x600.webp</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/9.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/55118-1.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/7.jpg</picture>
     </offer>
    <offer id="SK-03029" available="true">
        <url>https://lugi.com.ua/kuhonnyj-kombajn-4-v-1-sokany-sk-03029-z-sokovyzhymalkoyu/</url>
@@ -340,15 +341,15 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/external/0ab38d6102d957d8800369988e7a820a-600x600.webp</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_1.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_5.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_6.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_2.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_3.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_11.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_9.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_10.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/external/a90ba7e7a382b4c12008e71edc74b813-600x600.webp</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_4.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_11.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_7.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_8.jpg</picture>
     </offer>
    <offer id="SK-312" available="true">
@@ -441,14 +442,14 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/external/823e2edb5fb435562246f24532ee0273-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/579e0d0812702ddcd1bc8a89fcc91c95-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/6704b942ff8fa76555b48b0ab1b704ff-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/fb574a2123db77a3befb8c629e61aae0-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/db87b572cf49f9c7d93ab7a9a355a284-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/a25e67e22e204551f27fdcef7984a079-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/1bf9db07d7d97de865b7694f7894b5b2-600x600.webp</picture>
        <picture>https://lugi.com.ua/image/cache/external/662e640ecce5bdd96b5bde87109bf8af-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/579e0d0812702ddcd1bc8a89fcc91c95-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/fb574a2123db77a3befb8c629e61aae0-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/a25e67e22e204551f27fdcef7984a079-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/db87b572cf49f9c7d93ab7a9a355a284-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/6704b942ff8fa76555b48b0ab1b704ff-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/1bf9db07d7d97de865b7694f7894b5b2-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/823e2edb5fb435562246f24532ee0273-600x600.webp</picture>
     </offer>
    <offer id="SK-087" available="true">
        <url>https://lugi.com.ua/m-yasorubka-elektrychna-sokany-sk-087-z-nasadkamy/</url>
@@ -529,16 +530,16 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_10.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/external/c4dfaba5b43693584580830e5101f82e-600x600.webp</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_7.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/external/0d25ca9a65f8d1e725f8f382f6943f4c-600x600.webp</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_3.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_4.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_8.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_2.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_9.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_1.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_10.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_8.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_9.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_3.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_6.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_5.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/external/c4dfaba5b43693584580830e5101f82e-600x600.webp</picture>
     </offer>
    <offer id="SK1204" available="true">
        <url>https://lugi.com.ua/vagy-kuhonni-elektronni-sokany-sk-1204-z-chasheyu-hrom/</url>
@@ -598,11 +599,11 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/VahyElektronni/sk1204/sk1204_2.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/VahyElektronni/sk1204/sk1204_3.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/external/3120b23a1c6df53af52639e6eb5ee764-600x600.webp</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/VahyElektronni/sk1204/sk1204_4.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/VahyElektronni/sk1204/sk1204_2.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/external/3120b23a1c6df53af52639e6eb5ee764-600x600.webp</picture>
        <picture>https://lugi.com.ua/image/cache/external/5791f6c5a3eb941b4d3fd7767ac6ebe1-600x600.webp</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/VahyElektronni/sk1204/sk1204_3.jpg</picture>
     </offer>
    <offer id="SK-19027B" available="true">
        <url>https://lugi.com.ua/vagy-kuhonni-elektronni-sokany-sk-19027-do-5-kg-z-ploskoyu-platformoyu-chornyj/</url>
@@ -669,8 +670,8 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 ]]></description>
        <picture>https://lugi.com.ua/image/cache/external/a482b5f9f9bab4757a9f77641e6793fb-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/13986c54fb038a2dcf7e0f10a8ae4600-600x600.webp</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/VahyElektronni/sk-19027/_mg_0375.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/external/13986c54fb038a2dcf7e0f10a8ae4600-600x600.webp</picture>
        <picture>https://lugi.com.ua/image/cache/external/7a793893c8db0122cf428be9733837f5-600x600.webp</picture>
     </offer>
    <offer id="1733015W" available="true">
@@ -734,15 +735,15 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_5-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_2-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/270941c6-9843-4984-bc3c-bfc3f2811975-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/8a082154-8874-4887-a29d-b22986d29b8e-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/c2794d22-10b6-410b-943e-194364296e9b-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_4-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_5-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_3-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_2-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_1-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/d5135da6-69a8-469a-8fc1-acfcfebfa7f6-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_4-600x600.png</picture>
     </offer>
    <offer id="D3000L100MGBL" available="true">
        <url>https://lugi.com.ua/girlyanda-nit-rosa-hvojnaya-lapa-3000-led-100-metrov-zelenaya-nit-sinij/</url>
@@ -808,15 +809,15 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6045-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL(2)-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL_4-1-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6043-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/54fe8927-57c3-457c-939d-153943401ab1-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL_2-1-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6047-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6046-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL_2-1-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6043-600x600.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL_3-1-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL(2)-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6045-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6046-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL_4-1-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/54fe8927-57c3-457c-939d-153943401ab1-600x600.png</picture>
     </offer>
    <offer id="D1500L50MGML" available="true">
        <url>https://lugi.com.ua/girlyanda-nit-rosa-hvojnaya-lapa-1500-led-50-metrov-zelenaya-nit-multikolor/</url>
@@ -882,16 +883,16 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/123(3)-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/_T5B5412-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML_4-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML_5-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML_3-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML_4-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML_2-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/_T5B5412-600x600.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/_T5B5413-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML_2-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/123(2)-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/20251105_1134_Elkavnovominterere_remix_01k99s7sv9e0z8m9gfjve92pbw-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/123(3)-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/20251105_1134_Elkavnovominterere_remix_01k99s7sv9e0z8m9gfjve92pbw-600x600.png</picture>
     </offer>
    <offer id="1733015Y" available="true">
        <url>https://lugi.com.ua/girlyanda-konskij-hvost-600-led-20-nitej-dlina-3-metra-zheltyj/</url>
@@ -954,14 +955,14 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/20251105_1208_Belayaprovolokaognej_remix_01k99v4tfyezath2hs1tqm4v4z-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_4-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_1-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_3-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/fc1d3b6f-997a-4997-b0cd-bb0c02822d4d-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_3-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/20251105_1208_Belayaprovolokaognej_remix_01k99v4tfyezath2hs1tqm4v4z-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_5-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_2-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/c2794d22-10b6-410b-943e-194364296e9b-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_2-600x600.png</picture>
     </offer>
    <offer id="D400LED2MY" available="true">
        <url>https://lugi.com.ua/girlyanda-shtora-hvojnaya-lapa-svetodiodnaya-400-led-3h2-m-zhovtyj/</url>
@@ -1015,14 +1016,14 @@ IP44
 
 ]]></description>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY_2-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/123(3)-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/123(2)-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/066a3319-002e-4002-9655-9d65166227a2-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY_5-600x600.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/123(1)-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY_4-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY_3-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY_5-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/123(3)-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/066a3319-002e-4002-9655-9d65166227a2-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/123(2)-600x600.png</picture>
     </offer>
 </offers>
 </shop>
