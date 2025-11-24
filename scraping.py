@@ -1,5 +1,6 @@
 import requests
 import datetime
+import subprocess
 from bs4 import BeautifulSoup
 
 def get_html(url):
@@ -95,7 +96,7 @@ def make_yml(product, categorie, filename="lugi.yml"):
     xml.append('<offers>')
     for p in product:
         xml.append(f'   <offer id="{p["id"]}" available="true">')
-        xml.append(f'       <url>{p["url"]}}</url>')
+        xml.append(f'       <url>{p["url"]}</url>')
         xml.append(f'       <price>{p["price"]}</price>')
         xml.append('        <currencyID>UAH</currencyID>')
         xml.append(f'       <categoryID>{p["category_id"]}</categoryID>')
@@ -112,3 +113,16 @@ def make_yml(product, categorie, filename="lugi.yml"):
         f.write("\n".join(xml))
         
     print(f"YML file {filename} is CREATE at:{now}")
+    
+    
+def auto_push_git(repo_path="."):
+    commands = [
+        ["git", "add", "."],
+        ["git", "commit", "-m", "auto update yml"],
+        ["git", "push"]
+    ]
+    
+    for cmd in commands:
+        subprocess.run(cmd, cwd=repo_path)
+    print("YML file update on GIT")
+    
