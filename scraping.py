@@ -58,7 +58,7 @@ def pars_product_page(url, categorie_id):
             list_image.add(image.get("href"))
     else:
         print("Not dop images")
-    list_images = list(list_image)   
+    list_images = list(list_image)[:10]   
     print(list_images)
     
     return {
