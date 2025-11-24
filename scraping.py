@@ -87,7 +87,7 @@ def make_yml(product, categorie, filename="lugi.yml"):
     
     xml.append('<categories>')
     
-    for key, name_prod in categorie.items():
+    for name_prod, key in categorie.items():
         xml.append(f'   <category id="{key}">{name_prod}</category>')
     xml.append('</categories>')
     
