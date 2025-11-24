@@ -78,7 +78,7 @@ def make_yml(product, categorie, filename="lugi.yml"):
     
     xml = []
     xml.append('<?xml version="1.0" encoding="UTF-8"?>')
-    xml.append(f'yml_catalog date ="{now}">')
+    xml.append(f'<yml_catalog date ="{now}">')
     xml.append('<shop>')
     xml.append('<name>Lugi</name>')
     xml.append('<company>SuperPuperPrice</company>')
