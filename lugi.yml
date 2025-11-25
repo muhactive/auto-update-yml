@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date ="2025-11-24 17:05">
+<yml_catalog date ="2025-11-25 16:44">
 <shop>
 <name>Lugi</name>
 <company>SuperPuperPrice</company>
 <categories>
-<category id="85579632558964">Основний каталог</category>
-   <category id="1489867289" parentId="85579632558964">Павербанки</category>
-   <category id="1489867469" parentId="85579632558964">Техніка для кухні</category>
-   <category id="1489867479" parentId="85579632558964">Гірлянди</category>
+<category id="149014442">Товари для дому LUGI</category>
+   <category id="149014777" parentId="149014442">Павербанки</category>
+   <category id="149014785" parentId="149014442">Техніка для кухні</category>
+   <category id="149014787" parentId="149014442">Гірлянди</category>
 </categories>
 <offers>
    <offer id="X105" available="true">
        <url>https://lugi.com.ua/poverbank-5000-mah-usb-c-usb-a/</url>
        <price>1170</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867289</categoryID>
+       <categoryID>149014777</categoryID>
        <name>Повербанк 5000 mAh USB-C/USB-A</name>
        <description><![CDATA[
 Повербанк Smart X ємністю 5000 mAh з бездротовою зарядкою — відмінний вибір для тих хто цінує комфорт і зручність. Пристрій відрізняється компактними розмірами, не займає багато місця в кишені або сумці і дозволить забути про дроти та інші незручності під час заряджання.
@@ -67,17 +67,17 @@ Type-C,USB-C, USB-A
 
 
 ]]></description>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x105/x105(7).jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x105/x105(10).jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/external/cea8da03cad6e10fb817cc968d0de38a-600x600.webp</picture>
        <picture>https://lugi.com.ua/image/cache/external/948576087ef6d606c783952ea94dae4d-600x600.webp</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x105/x105(7).jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x105/x105(11).jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/external/cea8da03cad6e10fb817cc968d0de38a-600x600.webp</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x105/x105(10).jpg</picture>
     </offer>
    <offer id="X104" available="true">
        <url>https://lugi.com.ua/poverbank-10000-mah-z-bezdrotovoyu-zaryadkoyu-usb-s-usb-a-microusb-apple-lightning-3-shnury-v-komplekti/</url>
        <price>1424</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867289</categoryID>
+       <categoryID>149014777</categoryID>
        <name>Повербанк 10000 mAh з бездротовою зарядкою USB-С/USB-A/microUSB/Apple Lightning 3 шнури в комплекті</name>
        <description><![CDATA[
 Повербанк Smart X ємністю 10000 mAh у стильному прозорому корпусі – сучасний портативний зарядний пристрій, що дозволяє завжди мати під рукою джерело живлення для своїх гаджетів. Акумулятор відрізняється компактними розмірами та невеликою вагою, що дозволяє брати його в поїздки та подорожі. При цьому, підтримка Fast Charge і 3 вбудованих кабелів істотно скорочують час зарядки, а невеликий екран дає можливість контролювати рівень власного заряду батареї.
@@ -133,17 +133,17 @@ Power Bank має 4 роз'єми для підключення різних г�
 
 
 ]]></description>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x104/UR505_5.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x104/x104_2.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/external/eda9ab27ac523d707333aa8ad7ecf7f0-600x600.webp</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x104/x104_4.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/external/508c4104b0f821b6c1b557ecb43df59b-600x600.webp</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x104/UR505_5.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/powerbanki/x104/x104_4.jpg</picture>
     </offer>
    <offer id="SM-5011-7" available="true">
        <url>https://lugi.com.ua/kuhonnyj-kombajn-sokany-sm-5011-7-600-vt/</url>
        <price>2289</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867469</categoryID>
+       <categoryID>149014785</categoryID>
        <name>Кухонний комбайн SOKANY SM-5011-7 600 Вт</name>
        <description><![CDATA[
 Кухонний комбайн SOKANY SM-5011-7 - багатофункціональний кухонний пристрій 7 в 1 потужністю 700 Вт. Універсальний помічник для подрібнення, змішування, збивання та нарізки.ПеревагиБагатофункціональність: один прилад замінює кілька пристроїв - подрібнювач, занурювальний блендер, міксер.Потужність 700 Вт: ефективна робота з овочами, фруктами, м'ясом та тестом.Зручність використання: просте складання та керування, легко змінювати насадки та мити окремі елементи.Компактний дизайн: займає мінімум місця на кухні.Рекомендації щодо використанняНе перевантажувати чашу понад норму, різати великі шматки перед подрібненням.Для безпечної роботи вимикайте прилад перед зміною насадок.Мити змінні насадки та чашу вручну або в посудомийній машині (згідно з інструкцією).Зберігати в сухому місці, далеко від прямого нагріву.Характеристики:Потужність: 600 ВтКількість швидкостей: 2Об'єм чаші: 700 мл
@@ -155,18 +155,18 @@ Power Bank має 4 роз'єми для підключення різних г�
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/external/ce261e83813b53a4d6b91bf8ddedad31-600x600.webp</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/SM50117R/5.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/SM50117R/4.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/SM50117R/6.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/external/f434b652e5e42bd24329f92a6da715c8-600x600.webp</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/SM50117R/1.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/SM50117R/6.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/SM50117R/4.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/external/ce261e83813b53a4d6b91bf8ddedad31-600x600.webp</picture>
     </offer>
    <offer id="SK50118" available="true">
        <url>https://lugi.com.ua/kuhonnyj-kombajn-sokany-sm-5011-8-bagatofunkcionalnyj-chornyj/</url>
        <price>2289</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867469</categoryID>
+       <categoryID>149014785</categoryID>
        <name>Кухонний комбайн Sokany SM-5011-8 багатофункціональний, чорний</name>
        <description><![CDATA[
 Sokany SM-5011-8 - це багатофункціональний кухонний комбайн, який стане вашим незамінним помічником у приготуванні їжі. Він має потужний мотор на 700 Вт, який легко впорається з будь-якими завданнями, від подрібнення овочів до замішування тіста.
@@ -239,18 +239,18 @@ Sokany SM-5011-8 - це багатофункціональний кухонни�
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/external/e032c15aea8d0e9cbc290f45d54a0c38-600x600.webp</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/7.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/9.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/55118-1.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/8.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/9.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/external/e032c15aea8d0e9cbc290f45d54a0c38-600x600.webp</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/KyhonnieMachiny/sk50118/7.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/external/1672839834f27e1be4a825465d565ab5-600x600.webp</picture>
     </offer>
    <offer id="SK-03029" available="true">
        <url>https://lugi.com.ua/kuhonnyj-kombajn-4-v-1-sokany-sk-03029-z-sokovyzhymalkoyu/</url>
        <price>3148</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867469</categoryID>
+       <categoryID>149014785</categoryID>
        <name>Кухонний комбайн 4 в 1 Sokany SK-03029 з соковижималкою</name>
        <description><![CDATA[
 				Кухонний комбайн 4 в 1 Sokany SK-03029 – це багатофункціональний пристрій, який поєднує в собі подрібнювач, кавомолку, блендер та соковижималку. Він оснащений потужним мотором на 800 Вт та має два режими швидкості, що дозволяє ефективно обробляти різні продукти. Завдяки компактним розмірам (23*16*40 см) пристрій не займає багато місця на кухні та легко розміщується навіть у невеликих приміщеннях.
@@ -341,22 +341,22 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_11.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/external/0ab38d6102d957d8800369988e7a820a-600x600.webp</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_8.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_5.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/external/a90ba7e7a382b4c12008e71edc74b813-600x600.webp</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_7.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_1.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_6.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_3.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_2.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_10.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_6.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_4.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/external/0ab38d6102d957d8800369988e7a820a-600x600.webp</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_7.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/external/a90ba7e7a382b4c12008e71edc74b813-600x600.webp</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_8.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_1.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/sokovyjimalki/sk-03029/sk03029_11.jpg</picture>
     </offer>
    <offer id="SK-312" available="true">
        <url>https://lugi.com.ua/m-yasorubka-elektrychna-sokany-sk-312-z-nasadkamy/</url>
        <price>2696</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867469</categoryID>
+       <categoryID>149014785</categoryID>
        <name>М'ясорубка електрична SOKANY SK-312 з насадками</name>
        <description><![CDATA[
 Електрична м’ясорубка Sokany SK-312 – це потужний пристрій для швидкого та ефективного подрібнення м’яса, овочів та інших продуктів. Завдяки високій потужності 2500 Вт вона забезпечує продуктивну роботу без перегріву, що дозволяє використовувати її для приготування великої кількості м’ясних страв. Корпус виготовлений із пластику, що робить пристрій легким і зручним у використанні.
@@ -444,18 +444,18 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 ]]></description>
        <picture>https://lugi.com.ua/image/cache/external/db87b572cf49f9c7d93ab7a9a355a284-600x600.webp</picture>
        <picture>https://lugi.com.ua/image/cache/external/662e640ecce5bdd96b5bde87109bf8af-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/823e2edb5fb435562246f24532ee0273-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/fb574a2123db77a3befb8c629e61aae0-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/579e0d0812702ddcd1bc8a89fcc91c95-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/6704b942ff8fa76555b48b0ab1b704ff-600x600.webp</picture>
-       <picture>https://lugi.com.ua/image/cache/external/a25e67e22e204551f27fdcef7984a079-600x600.webp</picture>
        <picture>https://lugi.com.ua/image/cache/external/1bf9db07d7d97de865b7694f7894b5b2-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/6704b942ff8fa76555b48b0ab1b704ff-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/fb574a2123db77a3befb8c629e61aae0-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/823e2edb5fb435562246f24532ee0273-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/579e0d0812702ddcd1bc8a89fcc91c95-600x600.webp</picture>
+       <picture>https://lugi.com.ua/image/cache/external/a25e67e22e204551f27fdcef7984a079-600x600.webp</picture>
     </offer>
    <offer id="SK-087" available="true">
        <url>https://lugi.com.ua/m-yasorubka-elektrychna-sokany-sk-087-z-nasadkamy/</url>
        <price>2680</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867469</categoryID>
+       <categoryID>149014785</categoryID>
        <name>М'ясорубка електрична SOKANY SK-087 з насадками</name>
        <description><![CDATA[
 М'ясорубка SOKANY SK-087 – це надійний і потужний прилад, створений для швидкого й якісного подрібнення м'яса та інших продуктів. Завдяки потужності 1700 Вт, пристрій забезпечує високу продуктивність навіть при роботі з великими обсягами інгредієнтів. Корпус і лезо виготовлені з нержавіючої сталі, що гарантує довговічність, стійкість до корозії та легкість у догляді.
@@ -531,21 +531,21 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 ]]></description>
        <picture>https://lugi.com.ua/image/cache/external/0d25ca9a65f8d1e725f8f382f6943f4c-600x600.webp</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_3.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_5.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_7.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_10.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_9.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_4.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_6.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/external/c4dfaba5b43693584580830e5101f82e-600x600.webp</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_5.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_1.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_2.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_8.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_6.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_4.jpg</picture>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/myasorubki/sk-087/sk087_9.jpg</picture>
     </offer>
    <offer id="SK1204" available="true">
        <url>https://lugi.com.ua/vagy-kuhonni-elektronni-sokany-sk-1204-z-chasheyu-hrom/</url>
        <price>1093</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867469</categoryID>
+       <categoryID>149014785</categoryID>
        <name>Ваги кухонні електронні Sokany SK-1204 з чашею, хром</name>
        <description><![CDATA[
 				Ваги Sokany SK-1204 - це стильні та функціональні електронні ваги, які стануть вашим незамінним помічником на кухні. Їх максимальна вага зважування 10 кг, що робить їх ідеальними для зважування інгредієнтів для будь-якої страви.
@@ -599,17 +599,17 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
+       <picture>https://gmhost.space/oc.images/image/catalog/images/VahyElektronni/sk1204/sk1204_2.jpg</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/VahyElektronni/sk1204/sk1204_3.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/external/5791f6c5a3eb941b4d3fd7767ac6ebe1-600x600.webp</picture>
        <picture>https://lugi.com.ua/image/cache/external/3120b23a1c6df53af52639e6eb5ee764-600x600.webp</picture>
        <picture>https://gmhost.space/oc.images/image/catalog/images/VahyElektronni/sk1204/sk1204_4.jpg</picture>
-       <picture>https://gmhost.space/oc.images/image/catalog/images/VahyElektronni/sk1204/sk1204_2.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/external/5791f6c5a3eb941b4d3fd7767ac6ebe1-600x600.webp</picture>
     </offer>
    <offer id="SK-19027B" available="true">
        <url>https://lugi.com.ua/vagy-kuhonni-elektronni-sokany-sk-19027-do-5-kg-z-ploskoyu-platformoyu-chornyj/</url>
        <price>319</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867469</categoryID>
+       <categoryID>149014785</categoryID>
        <name>Ваги кухонні електронні SOKANY SK-19027 до 5 кг з плоскою платформою, чорний</name>
        <description><![CDATA[
 Ваги SOKANY SK-19027 - це компактні та точні електронні ваги, які стануть незамінним помічником на кухні. Максимальна вага навантаження – 5 кг, що робить їх ідеальними для зважування інгредієнтів для будь-якої страви. Терези обладнані функцією тари, що дозволяє зважувати продукти без урахування ваги миски або тарілки. Великий LCD-дисплей із чіткими цифрами робить зчитування результатів вимірювань зручним та легким.
@@ -678,7 +678,7 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
        <url>https://lugi.com.ua/girlyanda-konskij-hvost-600-led-20-nitej-dlina-3-metra-belyj/</url>
        <price>599</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867479</categoryID>
+       <categoryID>149014787</categoryID>
        <name>Гірлянда Кінський хвіст 600 LED 20 ниток довжина 3 метри, білий</name>
        <description><![CDATA[
 Світлодіодна гірлянда-пучок Кінський хвіст здатна зробити будь-який 
@@ -735,21 +735,21 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/c2794d22-10b6-410b-943e-194364296e9b-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_4-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_5-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/d5135da6-69a8-469a-8fc1-acfcfebfa7f6-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/8a082154-8874-4887-a29d-b22986d29b8e-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_1-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_2-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/270941c6-9843-4984-bc3c-bfc3f2811975-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_4-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_1-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/8a082154-8874-4887-a29d-b22986d29b8e-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_5-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_2-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/c2794d22-10b6-410b-943e-194364296e9b-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015W/1733015W_3-600x600.png</picture>
     </offer>
    <offer id="D3000L100MGBL" available="true">
        <url>https://lugi.com.ua/girlyanda-nit-rosa-hvojnaya-lapa-3000-led-100-metrov-zelenaya-nit-sinij/</url>
        <price>2699</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867479</categoryID>
+       <categoryID>149014787</categoryID>
        <name>Гірлянда-нитка Роса Хвойна лапа 3000 LED 100 метрів зелена нитка, синій</name>
        <description><![CDATA[
 Гірлянда-нитка Роса Хвойна лапа довжиною 100 метрів — це стильне 
@@ -809,21 +809,21 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL_2-1-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/54fe8927-57c3-457c-939d-153943401ab1-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6045-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6043-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6046-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL_3-1-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL_4-1-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6047-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6045-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/54fe8927-57c3-457c-939d-153943401ab1-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL(2)-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL_3-1-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6043-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6047-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/D3000L100MGBL_2-1-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D3000L100MGBL/_T5B6046-600x600.jpg</picture>
     </offer>
    <offer id="D1500L50MGML" available="true">
        <url>https://lugi.com.ua/girlyanda-nit-rosa-hvojnaya-lapa-1500-led-50-metrov-zelenaya-nit-multikolor/</url>
        <price>1549</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867479</categoryID>
+       <categoryID>149014787</categoryID>
        <name>Гірлянда-нитка Роса Хвойна лапа 1500 LED 50 метрів зелена нитка, мультиколір</name>
        <description><![CDATA[
 Гірлянда-нитка Роса Хвойна лапа довжиною 50 метрів — це стильне 
@@ -884,21 +884,21 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 ]]></description>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML_4-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/123(2)-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/_T5B5413-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/123(3)-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML_5-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML_2-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/_T5B5412-600x600.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML_3-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/123(2)-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/123(3)-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/_T5B5413-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/_T5B5412-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML_2-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/D1500L50MGML_4-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/hvojna_lapa/D1500L50MGML/20251105_1134_Elkavnovominterere_remix_01k99s7sv9e0z8m9gfjve92pbw-600x600.png</picture>
     </offer>
    <offer id="1733015Y" available="true">
        <url>https://lugi.com.ua/girlyanda-konskij-hvost-600-led-20-nitej-dlina-3-metra-zheltyj/</url>
        <price>599</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867479</categoryID>
+       <categoryID>149014787</categoryID>
        <name>Гірлянда Кінський хвіст 600 LED 20 ниток довжина 3 метри, жовтий</name>
        <description><![CDATA[
 Світлодіодна гірлянда-пучок Кінський хвіст здатна зробити будь-який 
@@ -955,20 +955,20 @@ Sokany SK-03029 простий у догляді: всі знімні елеме
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_3-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_4-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_5-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/20251105_1208_Belayaprovolokaognej_remix_01k99v4tfyezath2hs1tqm4v4z-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_2-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_1-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_4-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/20251105_1208_Belayaprovolokaognej_remix_01k99v4tfyezath2hs1tqm4v4z-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/c2794d22-10b6-410b-943e-194364296e9b-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_3-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/1733015Y_1-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/konskiy-hvost/1733015Y/fc1d3b6f-997a-4997-b0cd-bb0c02822d4d-600x600.png</picture>
     </offer>
    <offer id="D400LED2MY" available="true">
        <url>https://lugi.com.ua/girlyanda-shtora-hvojnaya-lapa-svetodiodnaya-400-led-3h2-m-zhovtyj/</url>
        <price>929</price>
         <currencyID>UAH</currencyID>
-       <categoryID>1489867479</categoryID>
+       <categoryID>149014787</categoryID>
        <name>Гірлянда штора хвойна лапа світлодіодна 400 LED 3х2 м, жовтий</name>
        <description><![CDATA[
 Гірлянда-штора хвойна лапа створює м’яке тепле світло, яке додає 
@@ -1015,15 +1015,15 @@ IP44
 
 
 ]]></description>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/066a3319-002e-4002-9655-9d65166227a2-600x600.png</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/123(2)-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/123(3)-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/123(1)-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY_3-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/123(2)-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY_5-600x600.jpg</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/066a3319-002e-4002-9655-9d65166227a2-600x600.png</picture>
+       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY_2-600x600.jpg</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY-600x600.png</picture>
        <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY_4-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY_2-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY_3-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/D400Led2MY_5-600x600.jpg</picture>
-       <picture>https://lugi.com.ua/image/cache/catalog/images/girlyandy/shtora/D400LED2MY/123(3)-600x600.png</picture>
     </offer>
 </offers>
 </shop>
